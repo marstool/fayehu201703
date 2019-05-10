@@ -9,5 +9,5 @@ weight = 20
 {{< mymp4 mp4="20170131_efp_0ae9ymu.mp4" >}}
 
      https://www.youtube.com/watch?v=Efp_0Ae9ymU 
-     
      Please stop complaining some of the American 
+     

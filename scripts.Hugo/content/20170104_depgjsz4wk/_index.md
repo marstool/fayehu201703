@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20170104_depgjsz4wk.mp4" >}}
 
-     Is your online Chinese date cheating on you? 
      https://www.youtube.com/watch?v= DEPgJsZ4Wk 
+     Is your online Chinese date cheating on you? 
      Thinking about online dating with someone from China? Three warning signs to look for if you think you've met Mr. or Ms. Perfect online in China. 

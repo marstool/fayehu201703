@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20170221_0tnjdvk0vu4.mp4" >}}
 
-     教你基本的美国交际礼貌/礼仪。 
      https://www.youtube.com/watch?v=0tNJDVk0Vu4 
      美国的交际礼仪（一） 
+     教你基本的美国交际礼貌/礼仪。 

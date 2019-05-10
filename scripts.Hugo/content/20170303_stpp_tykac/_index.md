@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20170303_stpp_tykac.mp4" >}}
 
-     地道美国人早餐吃什么 ？ 
-     一个很多人想知， 但不会去问的问题。 
      https://www.youtube.com/watch?v= stpP TykAc 
+     一个很多人想知， 但不会去问的问题。 
+     地道美国人早餐吃什么 ？ 
