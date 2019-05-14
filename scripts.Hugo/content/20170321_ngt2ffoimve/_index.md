@@ -4,7 +4,7 @@ description = ""
 weight = 20
 +++
 
-{{< mymp3 mp3="20170321_ngt2ffoimve.mp4.wav.mp3" >}}
+{{< mymp3 mp3="20170321_ngt2ffoimve.mp3" >}}
 
 {{< mymp4 mp4="20170321_ngt2ffoimve.mp4" >}}
 
